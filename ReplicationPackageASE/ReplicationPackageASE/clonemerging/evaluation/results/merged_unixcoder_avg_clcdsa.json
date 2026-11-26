@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_unixcoder_avg",
+  "dataset": "clcdsa",
+  "f1": 0.8007135269476681,
+  "precision": 0.9030085215071992,
+  "recall": 0.7192366549644432,
+  "accuracy": 0.8208984797175589
+}

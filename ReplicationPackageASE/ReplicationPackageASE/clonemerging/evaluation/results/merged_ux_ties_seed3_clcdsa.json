@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_unixcoder_ties_seed3",
+  "dataset": "clcdsa",
+  "f1": 0.8645911049864389,
+  "precision": 0.84357015620718,
+  "recall": 0.8866864704293815,
+  "accuracy": 0.8610580733482239
+}

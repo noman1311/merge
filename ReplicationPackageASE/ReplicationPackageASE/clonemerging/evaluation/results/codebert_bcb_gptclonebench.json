@@ -1,0 +1,8 @@
+{
+  "model_name": "codebert_bcb",
+  "dataset": "gptclonebench",
+  "f1": 0.44946627299568476,
+  "precision": 0.5199684708355229,
+  "recall": 0.3958,
+  "accuracy": 0.5152
+}

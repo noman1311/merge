@@ -1,0 +1,8 @@
+{
+  "model_name": "franken_greedy_v3",
+  "dataset": "gptclonebench",
+  "f1": 0.5279401897824212,
+  "precision": 0.5069022639425732,
+  "recall": 0.5508,
+  "accuracy": 0.5075
+}

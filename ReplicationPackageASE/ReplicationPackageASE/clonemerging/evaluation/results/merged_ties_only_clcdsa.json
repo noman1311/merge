@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_ties_only",
+  "dataset": "clcdsa",
+  "f1": 0.5654605474008076,
+  "precision": 0.5094639273493785,
+  "recall": 0.63528670447385,
+  "accuracy": 0.5115462209092874
+}

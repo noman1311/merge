@@ -1,0 +1,8 @@
+{
+  "model_name": "franken_unixcoder",
+  "dataset": "clcdsa",
+  "f1": 0.7429884042851984,
+  "precision": 0.8389018506353773,
+  "recall": 0.6667566837699163,
+  "accuracy": 0.7692376972404352
+}

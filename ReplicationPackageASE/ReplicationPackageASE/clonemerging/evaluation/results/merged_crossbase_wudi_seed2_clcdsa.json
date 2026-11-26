@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_crossbase_wudi_seed2",
+  "dataset": "clcdsa",
+  "f1": 0.5388421712329408,
+  "precision": 0.560784237373934,
+  "recall": 0.5185525249797461,
+  "accuracy": 0.5559748540961165
+}

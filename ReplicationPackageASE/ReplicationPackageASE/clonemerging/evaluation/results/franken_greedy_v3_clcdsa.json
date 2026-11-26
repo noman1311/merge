@@ -1,0 +1,8 @@
+{
+  "model_name": "franken_greedy_v3",
+  "dataset": "clcdsa",
+  "f1": 0.620319726310899,
+  "precision": 0.5092932935709827,
+  "recall": 0.7932487172562787,
+  "accuracy": 0.5142211254413143
+}

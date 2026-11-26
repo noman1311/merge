@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_codebert_ties_seed3",
+  "dataset": "gptclonebench",
+  "f1": 0.5530492898913951,
+  "precision": 0.5160228650614932,
+  "recall": 0.5958,
+  "accuracy": 0.5185
+}

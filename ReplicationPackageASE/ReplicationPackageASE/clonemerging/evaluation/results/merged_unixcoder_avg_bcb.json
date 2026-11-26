@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_unixcoder_avg",
+  "dataset": "bcb",
+  "f1": 0.8927858673959642,
+  "precision": 0.9397416945460204,
+  "recall": 0.8502991904259064,
+  "accuracy": 0.9720665549714022
+}

@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_unixcoder_wudi_seed2",
+  "dataset": "bcb",
+  "f1": 0.9319332525137275,
+  "precision": 0.9441875587024059,
+  "recall": 0.9199929602252728,
+  "accuracy": 0.9816184258670826
+}

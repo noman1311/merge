@@ -1,0 +1,8 @@
+{
+  "model_name": "unixcoder_combined",
+  "dataset": "gptclonebench",
+  "f1": 0.15127198224346936,
+  "precision": 0.5169194865810969,
+  "recall": 0.0886,
+  "accuracy": 0.5029
+}

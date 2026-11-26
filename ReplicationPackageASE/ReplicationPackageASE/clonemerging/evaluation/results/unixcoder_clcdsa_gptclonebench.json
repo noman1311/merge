@@ -1,0 +1,8 @@
+{
+  "model_name": "unixcoder_clcdsa",
+  "dataset": "gptclonebench",
+  "f1": 0.4097246226523793,
+  "precision": 0.4832835009513455,
+  "recall": 0.3556,
+  "accuracy": 0.4877
+}

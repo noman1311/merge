@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_crossbase_pcb",
+  "dataset": "clcdsa",
+  "f1": 0.6367091985776213,
+  "precision": 0.5311567343795128,
+  "recall": 0.7946169772256729,
+  "accuracy": 0.5463740183010304
+}

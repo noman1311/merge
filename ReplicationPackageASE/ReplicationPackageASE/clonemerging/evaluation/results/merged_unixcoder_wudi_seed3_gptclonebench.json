@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_unixcoder_wudi_seed3",
+  "dataset": "gptclonebench",
+  "f1": 0.236085626911315,
+  "precision": 0.5012987012987012,
+  "recall": 0.1544,
+  "accuracy": 0.5004
+}

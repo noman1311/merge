@@ -1,0 +1,8 @@
+{
+  "model_name": "unixcoder_combined",
+  "dataset": "bcb",
+  "f1": 0.9334263058617391,
+  "precision": 0.9485111098998928,
+  "recall": 0.9188137979584653,
+  "accuracy": 0.9820733914919021
+}

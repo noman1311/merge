@@ -1,0 +1,8 @@
+{
+  "model_name": "franken_unixcoder",
+  "dataset": "gptclonebench",
+  "f1": 0.3388925950633756,
+  "precision": 0.5090180360721442,
+  "recall": 0.254,
+  "accuracy": 0.5045
+}

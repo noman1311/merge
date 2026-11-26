@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_unixcoder_ties",
+  "dataset": "bcb",
+  "f1": 0.9000707463742483,
+  "precision": 0.9045503021685034,
+  "recall": 0.8956353396691306,
+  "accuracy": 0.9727983515319584
+}

@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_crossbase_pcb",
+  "dataset": "bcb",
+  "f1": 0.9362332996127952,
+  "precision": 0.9279145346425114,
+  "recall": 0.9447025695177754,
+  "accuracy": 0.9823983669382017
+}

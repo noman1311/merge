@@ -1,0 +1,8 @@
+{
+  "model_name": "codebert_bcb",
+  "dataset": "bcb",
+  "f1": 0.8937351100871797,
+  "precision": 0.886378979072545,
+  "recall": 0.9012143611404435,
+  "accuracy": 0.970687214743775
+}

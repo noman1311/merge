@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_crossbase_wudi",
+  "dataset": "bcb",
+  "f1": 0.9388750894995979,
+  "precision": 0.9431352004120123,
+  "recall": 0.934653291094685,
+  "accuracy": 0.9833540354728754
+}

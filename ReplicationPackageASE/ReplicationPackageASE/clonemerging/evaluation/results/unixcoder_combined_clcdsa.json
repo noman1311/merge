@@ -1,0 +1,8 @@
+{
+  "model_name": "unixcoder_combined",
+  "dataset": "clcdsa",
+  "f1": 0.921503031199172,
+  "precision": 0.9467178094677478,
+  "recall": 0.8975965433432352,
+  "accuracy": 0.9234995316665466
+}

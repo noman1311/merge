@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_unixcoder_pcb_seed2",
+  "dataset": "gptclonebench",
+  "f1": 0.3632822643469229,
+  "precision": 0.5177646188008882,
+  "recall": 0.2798,
+  "accuracy": 0.5096
+}

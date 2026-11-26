@@ -1,0 +1,25 @@
+{
+  "model": "Qwen/Qwen2.5-Coder-7B-Instruct",
+  "num_gpus": 3,
+  "batch_size": 32,
+  "total_pairs_dataset": 10000,
+  "pairs_evaluated": 10000,
+  "truncated": 0,
+  "unparseable": 0,
+  "precision": 0.4823476501011918,
+  "recall": 0.429,
+  "f1": 0.45411241664020324,
+  "confusion_matrix": {
+    "tp": 2145,
+    "fp": 2302,
+    "tn": 2698,
+    "fn": 2855
+  },
+  "wall_clock_sec": 628.8961825370789,
+  "throughput_pairs_per_sec": 15.900875657502363,
+  "mean_inference_sec_per_pair_single_gpu_equiv": 0.18866885476112366,
+  "mean_new_tokens_per_pair": 2.0,
+  "missing_pairs": 0,
+  "crashed_workers": [],
+  "timestamp": "2026-05-26T10:13:40.852265"
+}

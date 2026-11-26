@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_codebert_wudi",
+  "dataset": "bcb",
+  "f1": 0.8838832823739418,
+  "precision": 0.8876326718966313,
+  "recall": 0.8801654347060894,
+  "accuracy": 0.968369056560171
+}

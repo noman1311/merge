@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_unixcoder_wudi",
+  "dataset": "clcdsa",
+  "f1": 0.8807872451152008,
+  "precision": 0.9282608695652174,
+  "recall": 0.8379332073093888,
+  "accuracy": 0.8865282080841559
+}

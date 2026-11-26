@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_unixcoder_pcb",
+  "dataset": "clcdsa",
+  "f1": 0.8638281549673955,
+  "precision": 0.9241817995280599,
+  "recall": 0.8108740660725537,
+  "accuracy": 0.8721089415663953
+}

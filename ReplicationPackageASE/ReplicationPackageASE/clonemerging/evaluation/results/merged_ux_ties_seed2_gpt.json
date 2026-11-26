@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_unixcoder_ties_seed2",
+  "dataset": "gptclonebench",
+  "f1": 0.40784499054820417,
+  "precision": 0.4982678983833718,
+  "recall": 0.3452,
+  "accuracy": 0.4988
+}

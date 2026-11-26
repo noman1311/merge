@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_codebert_wudi_seed2",
+  "dataset": "gptclonebench",
+  "f1": 0.43374060150375937,
+  "precision": 0.525626423690205,
+  "recall": 0.3692,
+  "accuracy": 0.518
+}

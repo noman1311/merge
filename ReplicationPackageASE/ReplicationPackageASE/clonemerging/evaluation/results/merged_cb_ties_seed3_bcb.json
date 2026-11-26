@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_codebert_ties_seed3",
+  "dataset": "bcb",
+  "f1": 0.8178997143138607,
+  "precision": 0.7664789512555391,
+  "recall": 0.8767159450897571,
+  "accuracy": 0.9466029233346814
+}

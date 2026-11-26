@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_codebert_wudi",
+  "dataset": "clcdsa",
+  "f1": 0.8888034141070023,
+  "precision": 0.9045089377248411,
+  "recall": 0.873633990458187,
+  "accuracy": 0.8906441386267022
+}

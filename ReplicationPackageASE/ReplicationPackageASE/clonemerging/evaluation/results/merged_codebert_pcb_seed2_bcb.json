@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_codebert_pcb_seed2",
+  "dataset": "bcb",
+  "f1": 0.8649911706473075,
+  "precision": 0.8768307236104582,
+  "recall": 0.8534670890531503,
+  "accuracy": 0.9635594199549368
+}

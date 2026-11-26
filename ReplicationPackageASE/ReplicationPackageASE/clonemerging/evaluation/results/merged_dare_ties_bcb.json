@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_dare_ties",
+  "dataset": "bcb",
+  "f1": 0.863521362648327,
+  "precision": 0.8743325155145043,
+  "recall": 0.8529743048222457,
+  "accuracy": 0.9631213049088143
+}

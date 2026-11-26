@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_codebert_ties_seed3",
+  "dataset": "clcdsa",
+  "f1": 0.7586150139905133,
+  "precision": 0.6490136589986815,
+  "recall": 0.9127554235304708,
+  "accuracy": 0.7094171049787449
+}

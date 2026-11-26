@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_unixcoder_pcb",
+  "dataset": "bcb",
+  "f1": 0.9174500270124257,
+  "precision": 0.9392699115044247,
+  "recall": 0.8966209081309399,
+  "accuracy": 0.9779305563579641
+}

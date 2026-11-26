@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_dare_ties",
+  "dataset": "clcdsa",
+  "f1": 0.3318589060835787,
+  "precision": 0.5458367683429514,
+  "recall": 0.23840129624628678,
+  "accuracy": 0.5197690755818143
+}

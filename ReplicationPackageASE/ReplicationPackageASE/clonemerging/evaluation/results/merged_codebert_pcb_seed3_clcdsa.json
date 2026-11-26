@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_codebert_pcb_seed3",
+  "dataset": "clcdsa",
+  "f1": 0.815494138009351,
+  "precision": 0.7216877824290981,
+  "recall": 0.9373300927176164,
+  "accuracy": 0.7878179263635708
+}

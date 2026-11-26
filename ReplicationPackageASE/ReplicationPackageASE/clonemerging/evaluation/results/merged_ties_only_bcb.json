@@ -1,0 +1,8 @@
+{
+  "model_name": "merged_ties_only",
+  "dataset": "bcb",
+  "f1": 0.840713498214609,
+  "precision": 0.7893915515589753,
+  "recall": 0.899172826469553,
+  "accuracy": 0.9533961137751074
+}

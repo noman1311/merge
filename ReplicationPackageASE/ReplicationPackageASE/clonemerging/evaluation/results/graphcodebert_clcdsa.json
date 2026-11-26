@@ -1,0 +1,8 @@
+{
+  "model_name": "graphcodebert_bcb",
+  "dataset": "clcdsa",
+  "f1": 0.49477254309525476,
+  "precision": 0.5568140875517925,
+  "recall": 0.44517058241065804,
+  "accuracy": 0.5451851718423517
+}

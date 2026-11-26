@@ -1,0 +1,25 @@
+{
+  "model": "deepseek-ai/deepseek-coder-6.7b-instruct",
+  "num_gpus": 4,
+  "batch_size": 16,
+  "total_pairs_dataset": 10000,
+  "pairs_evaluated": 10000,
+  "truncated": 0,
+  "unparseable": 1356,
+  "precision": 0.6470588235294118,
+  "recall": 0.066,
+  "f1": 0.11978221415607986,
+  "confusion_matrix": {
+    "tp": 330,
+    "fp": 180,
+    "tn": 4820,
+    "fn": 4670
+  },
+  "wall_clock_sec": 515.7428393363953,
+  "throughput_pairs_per_sec": 19.389508175948638,
+  "mean_inference_sec_per_pair_single_gpu_equiv": 0.2062971357345581,
+  "mean_new_tokens_per_pair": 32.0,
+  "missing_pairs": 0,
+  "crashed_workers": [],
+  "timestamp": "2026-07-16T17:10:07.432567"
+}
